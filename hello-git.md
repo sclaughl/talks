@@ -1,5 +1,16 @@
 # Hello Git
 
+##Why Source Control?
+
+- protect the source code
+    - servers are more reliable than laptops
+- enable collaboration
+    - check-out/check-in
+    - edit/merge
+- understanding change history
+    - "save points" (labels/tags)
+    - grouping changes into units (features)
+
 ## The Basics
 - git help
 - git diff
